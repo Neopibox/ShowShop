@@ -1,0 +1,9 @@
+name: ShowShop
+version: 3.0
+main: fr.Jivaa.ShowShop.ShowShop
+depend: [PluginsBaker, Vault]
+author: Jivaa
+authors: [Jivaa]
+commands:
+  ss:
+    description: Commandes de ShowShop ("/ss help" pour afficher la liste des commandes).
